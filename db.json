@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "Николай",
+      "title": "HTML+CSS",
+      "review": "fetchPosts",
+      "id": 1
+    },
+    {
+      "name": "Галиева Лариса",
+      "title": "HTML+CSS",
+      "review": "fetchPosts",
+      "id": 2
+    },
+    {
+      "name": "Вёрстка сайта по макету.(startup).",
+      "title": "HTML+CSS",
+      "review": "fetchPosts",
+      "id": 3
+    }
+  ]
+}
