@@ -17,6 +17,24 @@
       "title": "HTML+CSS",
       "review": "fetchPosts",
       "id": 3
+    },
+    {
+      "name": "Николай",
+      "title": "HTML+CSS",
+      "review": "https://nickolay",
+      "id": 4
+    },
+    {
+      "name": "Галиева Лариса",
+      "title": "HTML+CSS",
+      "review": "Галиева Лариса",
+      "id": 5
+    },
+    {
+      "name": "Галиева Лариса",
+      "title": "HTML+CSS",
+      "review": "Галиева Лариса",
+      "id": 6
     }
   ]
 }
